@@ -1,0 +1,7 @@
+name: LootlessPVPHeadDrops
+version: 1.0.0
+author: ProfanedBane
+website: https://github.com/ProfanedBane/LootlessPVPHeadDrops
+main: com.gmail.profanedbane.LootlessPVPHeadDrops.LootlessPVPHeadDrops
+description: A player head drop plugin that doesn't rely on the player dropping loot on death.
+api-version: 1.16
